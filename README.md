@@ -1,0 +1,1 @@
+# For-Dongusu-Ile-Faktoriyel-Hesaplama
